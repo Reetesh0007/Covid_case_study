@@ -5,7 +5,7 @@
 This case study aims to analyze the impact of COVID-19 on global health and economies. We use data-driven approaches to understand the spread of the virus, its effects on different populations, and the efficacy of various containment measures.
 
 ## Objectives
-- To track the spread of COVID-19 globally.
+
 - To analyze the demographic factors influencing COVID-19 outcomes.
 - To evaluate the effectiveness of public health interventions.
 
