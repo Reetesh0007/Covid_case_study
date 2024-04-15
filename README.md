@@ -41,7 +41,8 @@ We employed statistical and machine learning models to predict the spread of the
 
 ## Contact
 For any inquiries, please contact:
-- Linkedin(https://www.linkedin.com/in/reetesh-kumar00/)
+ - Linkedin : [Reetesh kumar](https://www.linkedin.com/in/reetesh-kumar00/)
+
 
 
 
