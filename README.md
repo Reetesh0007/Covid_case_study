@@ -11,11 +11,16 @@ This case study aims to analyze the impact of COVID-19 on global health and econ
 
 ## Data Sources
 The data for this study is  sourced from the kaggle:
-- Dataset : https://www.kaggle.com/datasets/einsteindata4u/covid19
+- Dataset : [Source](https://www.kaggle.com/datasets/einsteindata4u/covid19)
 
 ## Methodology
 We employed statistical and machine learning models to predict the spread of the virus and assess the impact of interventions. The models include:
-- 
+- Linear Regression
+- Logistic Regression
+- Random Forest
+- Decision Tree
+- KNN
+- xgboost
 ## Dependencies: 
 - Python 3.12
 - Jupyter Notebook
@@ -23,14 +28,7 @@ We employed statistical and machine learning models to predict the spread of the
 - numpy
 - pandas
 - sklearn
-- Linear Regression
-- Logistic Regression
-- Random Forest
-- Decision Tree
-- KNN
-- xgboost
-
-
+- matplot
 
 ## How to Use This Repository
 
